@@ -1,0 +1,11 @@
+10
+buy popcorn 1000 3000
+buy soda 2000 1000
+change_price popcorn 6
+change_price soda 5
+sell popcorn 50
+sell soda 100
+change_price popcorn 8
+sell popcorn 90
+sell soda 1899
+buy soda 10 3
